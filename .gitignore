@@ -1,0 +1,4 @@
+scan.src.html
+.staticrypt.json
+enc-out/
+*.src.html
